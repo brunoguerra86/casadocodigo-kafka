@@ -2,7 +2,7 @@ create table shop (
     id bigserial primary key auto_increment,
     identifier varchar not null,
     status varchar not null,
-    date_shop date
+    date_shop datetime
 );
 
 create table shop_item (

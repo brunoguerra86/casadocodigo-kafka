@@ -1,5 +1,7 @@
 package com.bruno.shopapi.model;
 
+import com.bruno.shopapi.dto.ShopItemDTO;
+
 import lombok.Getter;
 import lombok.Setter;
 
